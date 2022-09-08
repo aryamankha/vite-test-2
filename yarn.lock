@@ -1342,6 +1342,11 @@ vite@^2.5.4:
   optionalDependencies:
     fsevents "~2.3.2"
 
+vivid-studio@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/vivid-studio/-/vivid-studio-0.4.0.tgz#f8eab546efd2c73c19efac87215b0be735b919da"
+  integrity sha512-6pxB0o2aD1UAt62YQobjC1TNYXc5YaA6f14/I5F+HfaDiQ15mYXcRN3U4M2lLv+sH1V9bMUQAxcVWr8Vky/qIg==
+
 wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
